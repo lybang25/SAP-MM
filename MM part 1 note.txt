@@ -1,0 +1,33 @@
+PR 13000000000007 ZG10
+
+PR : ME51N
+
+PO : ME21N
+
+Good receipt : MIGO
+
+Invoice receipt : MIRO
+
+Setup SAP GUI va log on vao he thong
+
+run Purchasing process
+
+
+Setup MM Org Structure - Copy from conpany code ZG10
+
+Company code : ZHIEU
+
+Plant ZH10, ZH11 -> Sloc : V101, V102
+
+Purchasing Org : ZHIEU
+
+
+Set up master data : Material master, Vendor, Purchase infor record (PIR), SOurce list
+
+
+-Book :
+Customizing-Materials-Management-Processes-in-SAP-ERP-Operations
+SCM500
+
+Slide : Org Structure , Master data
+
